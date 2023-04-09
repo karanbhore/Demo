@@ -1,6 +1,6 @@
 package com.prowings.abstractionDemos;
 
-public abstract class Person {
+abstract class Person {
 	String name;
 	int age;
 	float height;

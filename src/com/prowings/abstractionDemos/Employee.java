@@ -1,6 +1,6 @@
 package com.prowings.abstractionDemos;
 
-public class Employee extends Person{
+class Employee extends Person{
 
 	public Employee(String name, int age, float height) {
 		super(name, age, height);
